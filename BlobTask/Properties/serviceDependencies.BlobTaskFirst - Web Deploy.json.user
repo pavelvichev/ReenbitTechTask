@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "storage2": {
+      "restored": true,
+      "restoreTime": "2023-09-14T20:38:37.0533024Z"
+    }
+  },
+  "parameters": {
+    "storage2.resourceGroupName": {
+      "Name": "storage2.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "BlobGroup"
+    },
+    "storage2.subscriptionId": {
+      "Name": "storage2.subscriptionId",
+      "Type": "subscription",
+      "Value": "2b64459f-22bd-4e71-a218-9ddcd6004494"
+    }
+  }
+}

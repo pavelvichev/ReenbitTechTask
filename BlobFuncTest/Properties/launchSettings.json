@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "BlobFuncTest": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "config": "hello"
+      }
+    }
+  }
+}

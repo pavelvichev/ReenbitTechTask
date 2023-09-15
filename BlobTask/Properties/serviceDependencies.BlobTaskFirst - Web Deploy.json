@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "storage2": {
+      "serviceConnectorResourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Web/sites/BlobTaskFirst/providers/Microsoft.ServiceLinker/linkers/CustomConfigurationCONFIGURE_STRING_STOR_E2E0033692, /subscriptions/2b64459f-22bd-4e71-a218-9ddcd6004494/resourceGroups/BlobGroup/providers/Microsoft.Web/sites/BlobTaskFirst/providers/Microsoft.ServiceLinker/linkers/CustomConfigurationCONFIGURE_STRING_STOR_A174113A5A",
+      "secretStore": "AzureAppSettings",
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Storage/storageAccounts/storageblob1497",
+      "type": "storage.azure",
+      "connectionId": "CustomConfiguration:CONFIGURE_STRING_STORAGE",
+      "dynamicId": null
+    }
+  }
+}
