@@ -1,7 +1,7 @@
 ﻿using AutoFixture;
 using Azure.Communication.Email;
 using Azure.Storage.Blobs;
-using BlobTask;
+using BlobTask.Configure;
 using BlobTask.Controllers;
 using BlobTask.Models;
 using Castle.Core.Logging;

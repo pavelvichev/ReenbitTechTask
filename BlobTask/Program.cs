@@ -1,5 +1,6 @@
 using Azure.Storage.Blobs;
 using BlobTask;
+using BlobTask.Configure;
 using Microsoft.AspNetCore;
 using Microsoft.Extensions.Azure;
 using Microsoft.Extensions.Configuration;

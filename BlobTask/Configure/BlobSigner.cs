@@ -1,7 +1,7 @@
 ﻿using Azure.Storage.Blobs;
 using BlobTask.Models;
 
-namespace BlobTask
+namespace BlobTask.Configure
 {
     public class BlobSigner
     {
@@ -15,7 +15,7 @@ namespace BlobTask
 
 
         public async Task<BlobClient> CreateBlob(string fileName)
-        { 
+        {
             var blobContainerClient = client;
 
             await blobContainerClient.CreateIfNotExistsAsync();

@@ -1,8 +1,8 @@
-﻿namespace BlobTask
+﻿namespace BlobTask.Configure
 {
     public class AppSettings
     {
-        public string CONFIGURE_STRING_STORAGE { get;  }
+        public string CONFIGURE_STRING_STORAGE { get; }
 
         public AppSettings(string config)
         {
