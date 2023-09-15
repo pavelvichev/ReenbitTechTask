@@ -1,0 +1,12 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+    "AccountKey": "Vys/5EqhNnaR7o5woxV4Am2P8iZ0Jzo6ZHTySDSLxX4UqnlQSxx+8YQFxjLu36G9+nbWVnSVZ8Rb+AStjsW8HQ==",
+    "StorageName": "storageblob1497",
+    "ConnectionStringEmail": "endpoint=https://communication-resource1.unitedstates.communication.azure.com/;accesskey=OWyg7TGQbK/VBcxkaGVql7GBkeIuQWe4TQMzh8bjPRc65PJ/YdaTOJzYOjPE1hcUzpJpo6pbWGO61DcqCpCo0A==",
+    "ContainerName": "blobcontainer",
+    "BLobConnectionString": "DefaultEndpointsProtocol=https;AccountName=storageblob1497;AccountKey=Vys/5EqhNnaR7o5woxV4Am2P8iZ0Jzo6ZHTySDSLxX4UqnlQSxx+8YQFxjLu36G9+nbWVnSVZ8Rb+AStjsW8HQ==;EndpointSuffix=core.windows.net"
+  }
+}
